@@ -24,6 +24,7 @@ URL:[https://mezasenokng.xsrv.jp](https://mezasenokng.xsrv.jp)<br>
 ・ログイン/ログアウト<br>
 ・アカウント認証/登録時のアカウント重複チェック<br>
 ・文章の投稿/投稿文章の削除<br>
+・レスポンシブ対応<br>
 
 ## 使用言語・開発環境
 -- HTML/CSS<br>
