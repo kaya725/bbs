@@ -1,0 +1,145 @@
+/* main */
+span,
+.postBox p{
+  color:white;
+}
+.center{
+  position: relative;
+}
+.wrap{
+  padding:10px;
+  background-color:black;
+}
+.center-contents{
+  position: relative;
+  padding:0 20px 20px;
+}
+.post-zentai{
+  padding-bottom:20px;
+}
+.post-zentai p{
+  display: inline-block;
+  height:50px;
+  line-height:50px;
+  vertical-align: middle;
+}
+.post-zentai img{
+  vertical-align: middle;
+}
+.postBox{
+  padding:10px 0;
+}
+.text:hover{
+  background-color:#EEE;
+  opacity:0.8;
+}
+.btn2{
+  display:inline-block;
+  width:150px;
+  border:2px solid black;
+  border-radius:8px;
+  font-size:18px;
+  padding:3px;
+  background-color:white;
+  color:black;
+  text-align: center;
+}
+.btn2:hover{
+  background-color:#888;
+  color:white;
+  opacity:0.8;
+}
+
+/* メッセージ欄 */
+.msg{
+  width:500px;
+  padding:10px;
+  text-align:left;
+}
+.hello{
+  color:white;
+}
+.msg p{
+  padding:0;
+  margin:0;
+  display: inline-block;
+}
+.msgBox{
+  width:100%;
+  padding-bottom:10px;
+}
+/* user */
+.userProf{
+  display: inline-block;
+}
+.user{
+  width:70px;
+  display: inline-block;
+  padding-right:10px;
+}
+.name{
+  font-size:13px;
+  text-align:center;
+}
+/* text */
+.msgBoxText{
+  width:70%;
+  position: relative;
+  display: inline-block;
+  padding: 7px 10px;
+  min-width: 120px;
+  font-size: 16px;
+  color:black;
+  background: white;
+  vertical-align: top;
+  border-radius:12px;
+}
+.msgBoxText:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -28px;
+  margin-top: -15px;
+  border: 15px solid transparent;
+  border-right: 15px solid white;
+}
+.day{
+  font-size:10px;
+}
+
+/* アイコン */
+.post-zentai img,
+.msg img{
+  width:50px;
+  margin:0 auto;
+}
+
+/* right */
+.right{
+  position: absolute;
+  top:270px;
+  right:7%;
+  transform: translateX(-7%);
+  -webkit-transform: translateX(-7%);
+  -ms-transform: translateX(-7%);
+}
+.right li{
+  width:100px;
+  text-align: center;
+  font-size:20px;
+  padding:3px 10px;
+  border:1px solid white;
+  width:150px;
+}
+.logout{
+  margin-top:-15px;
+  margin-bottom:20px;
+}
+.logout:hover{
+  background-color:white;
+  color:black;
+  opacity:0.9;
+}
+.right img{
+  width:50px;
+}

@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px){
+    .dollarsimg{
+        padding:10px 0;
+    }
+    .dollarsimg img{
+        width:150px;
+    }
+    .wrap{
+        width:70%;
+    }
+    .account{
+        padding-top:15px;
+    }
+    button{
+        margin-top:15px;
+    }    
+}

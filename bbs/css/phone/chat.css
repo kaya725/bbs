@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px){
+    .dollarsimg {
+        padding: 10px 0;
+        position: relative;
+    }
+    .wrap{
+        width:90%
+    }
+    .postBox {
+        padding: 50px 0 20px;
+    }
+    .msg {
+        width: 100%;
+        padding:0;
+    }
+    textarea {
+        width: 100%;
+        height: 100px;
+    }    
+    .right {
+        position: absolute;
+        top: 220px;
+        right: 15%;
+        transform: translateX(-7%);
+        -webkit-transform: translateX(-19%);
+        -ms-transform: translateX(-7%);
+    }
+    .msgBoxText {
+        width:50%;
+    }
+}

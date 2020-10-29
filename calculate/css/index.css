@@ -1,0 +1,71 @@
+p{
+    padding:0;
+    margin:0;
+}
+body{
+    margin:0;
+}
+.header{
+    font-size:2rem;
+    text-align:center;
+}
+main{
+    text-align:center;
+}
+.incomeText{
+    padding:10px;
+    width:120px;
+}
+.incomeText:hover{
+    opacity:0.8;
+    background-color: #ecf0f4;
+}
+.edit{
+    display: block;
+    height:45px;
+    border:0;
+    float:left;
+    font-size:20px;
+}
+.edit:hover{
+    opacity:0.8;
+    background-color: #ecf0f4;
+}
+
+table{
+    border-collapse:collapse;
+    margin:20px auto;
+}
+th{
+    color:#FF9800;
+    background:#fff5e5;
+    padding:10px;
+    width:160px;
+}
+th,td{
+    border:solid 1px black;
+}
+td{
+    height:45px;
+    line-height:45px;
+}
+.btn{
+    width:120px;
+    padding:10px;
+}
+.mark{
+    font-size:1.5rem;
+    padding-top:20px;
+}
+.error{
+    color:red;
+}
+input{
+    width:140px;
+}
+.income input{
+    font-size:20px;
+}
+.use th{
+    width:200px;
+}

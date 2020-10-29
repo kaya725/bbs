@@ -1,0 +1,44 @@
+/* main */
+.wrap{
+  position:relative;
+  padding:10px 10px 30px;
+}
+.centents{
+  display: inline-block;
+  text-align:center;
+  font-size:17px;
+}
+.content{
+  padding-bottom:30px;
+}
+.area{
+  border-radius:7px;
+  border:2px solid black;
+  font-size:15px;
+  width:230px;
+}
+.account{
+  padding-top:60px;
+}
+button a{
+  color:black;
+}
+button{
+  display:inline-block;
+  width:200px;
+  padding:2px;
+  border:2px solid white;
+  background-color:#808080;
+  border-radius:10px;
+  color:white;
+  font-size:18px;
+}
+button:hover{
+  opacity:0.9;
+}
+/* icons */
+.iconBox img{
+  width:80px;
+  height:80px;
+  margin:5px;
+}

@@ -1,0 +1,32 @@
+@media screen and (max-width: 480px){
+    p{
+      font-size:15px;
+    }
+    .dollarsimg{
+      padding:10px 0;
+    }
+    .dollarsimg img{
+      width:150px;
+    }
+    .wrap{
+      width:70%;
+    }
+    .title{
+      font-size:20px;
+    }
+    .center-contents {
+      padding: 10px;
+    }
+    .iconBox img{
+      width:50px;
+    }
+    .error{
+      font-size:13px;
+    }
+    .content{
+      padding-bottom:15px;
+    }
+    .login {
+      padding: 20px 0 10px;
+  }
+}

@@ -1,0 +1,9 @@
+@media screen and (max-width: 480px){
+    .wrap{
+      width:70%;
+      padding:0;
+    }
+    .dollarsTopImg{
+        width:200px;
+      }
+ }

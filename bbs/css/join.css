@@ -1,0 +1,42 @@
+  /* main */
+  .wrap{
+    position:relative;
+  }
+  .centents{
+    display: inline-block;
+    text-align:center;
+    font-size:17px;
+  }
+  .content{
+    padding-bottom:30px;
+  }
+  .area{
+    border-radius:7px;
+    border:2px solid black;
+    font-size:15px;
+    width:230px;
+  }
+  .login{
+    padding:40px 0 30px;
+  }
+  /* icon */
+  .iconBox img{
+    width:100px;
+  }
+  /* button */
+  button a{
+    color:black;
+  }
+  button{
+    display:inline-block;
+    width:200px;
+    padding:2px;
+    border:2px solid white;
+    background-color:#808080;
+    border-radius:10px;
+    color:white;
+    font-size:18px;
+  }
+  button:hover{
+    opacity:0.9;
+  }
